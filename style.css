@@ -1,0 +1,37 @@
+.loo{
+    background-color: black;
+
+}
+
+.tx{
+
+    text-align: center;
+}
+#img1{
+ background-image: url(./1.png);
+ height: 900px; 
+ background-position: 50% 50%;
+ 
+}
+.color{
+    color: white;
+}
+#img2{
+ background-image: url(./2.png);
+ background-position: 50% 50%;
+ 
+}
+.color2{
+    color: #eed490;
+}
+#img3{
+background-image: url('./9.png');
+ background-position: 50% 10%;
+ height: 650px;
+}
+.bg3{
+    background-color: #333333;
+}
+html, body {
+  overflow-x: hidden;
+}
